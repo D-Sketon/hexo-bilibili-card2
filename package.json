@@ -1,0 +1,27 @@
+{
+  "name": "hexo-bilibili-card2",
+  "version": "1.0.0",
+  "description": "A hexo plugin to show bilibili style card.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Sketon/hexo-bilibili-card2.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "bilibili"
+  ],
+  "author": "D-Sketon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D-Sketon/hexo-bilibili-card2/issues"
+  },
+  "homepage": "https://github.com/D-Sketon/hexo-bilibili-card2#readme"
+}
