@@ -1,4 +1,6 @@
 # hexo-bilibili-card2
+![](https://img.shields.io/npm/v/hexo-bilibili-card2)   ![](https://img.shields.io/npm/dt/hexo-bilibili-card2)
+
 A hexo plugin to show bilibili style card.  
 基于 [hexo-bilibili-card](https://github.com/MaxChang3/hexo-bilibili-card) 的自用魔改版  
 
