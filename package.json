@@ -1,11 +1,8 @@
 {
   "name": "hexo-bilibili-card2",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A hexo plugin to show bilibili style card.",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "test": "vitest"
   },
