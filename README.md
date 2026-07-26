@@ -21,7 +21,7 @@ npm install hexo-bilibili-card2 --save
 - [x] 将所有 `icon` 替换为自制 `svg`
 - [x] 播放量支持 **亿**
 - [x] 修改页面，使之更接近 `Bilibili` 样式
-- [x] 增添~~无用~~鼠标悬浮动画
+- [x] 增添鼠标悬浮动画
 - [x] `id` 出错时显示更友好
 - [x] 优化移动端显示
 

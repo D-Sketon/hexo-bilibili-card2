@@ -1,7 +1,12 @@
 {
   "name": "hexo-bilibili-card2",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A hexo plugin to show bilibili style card.",
+  "files": [
+    "index.js",
+    "lib/",
+    "source/"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "vitest"
@@ -20,11 +25,12 @@
   "bugs": {
     "url": "https://github.com/D-Sketon/hexo-bilibili-card2/issues"
   },
-  "homepage": "https://github.com/D-Sketon/hexo-bilibili-card2#readme",
-  "dependencies": {
-    "node-fetch": "^2.7.0"
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   },
+  "homepage": "https://github.com/D-Sketon/hexo-bilibili-card2#readme",
   "devDependencies": {
-    "vitest": "^2.1.2"
+    "vitest": "^4.1.10"
   }
 }
